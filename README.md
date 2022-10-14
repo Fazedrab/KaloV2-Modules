@@ -1,6 +1,6 @@
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fazedrab/KaloV2-Modules/main/Initiate.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fazedrab/KaloV2-Modules/main/Modules.lua"))()
 ```
 
 op i guess
