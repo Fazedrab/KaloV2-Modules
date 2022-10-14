@@ -1,9 +1,9 @@
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vodxn/sape/main/Initiate.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fazedrab/KaloV2-Modules/main/Initiate.lua"))()
 ```
 
-join the discord, i guess https://discord.gg/ybCnUygZWp
+op i guess
 
 ### Features
 Blatant Window > `BetterKillaura` (MultiAura Recreation)
